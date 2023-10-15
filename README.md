@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Knucklehead
 - 👀 I’m interested in Programing
-- 🌱 I’m currently learning Web Devoleping
+- 🌱 I’m currently learning Web Developing
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me knuckleheadn18@gmail.com
 
